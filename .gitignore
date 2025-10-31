@@ -6,3 +6,7 @@
 .DS_Store
 *.json
 !parsed_flavor_notes.csv
+*.gz
+*.html
+*.geojson
+data/*/*.ipynb
