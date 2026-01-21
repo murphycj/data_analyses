@@ -10,3 +10,11 @@
 *.html
 *.geojson
 data/*/*.ipynb
+*.sql
+*.mp3
+*.db
+*.db-shm
+*.db-wal
+.env
+data/common_voice/downloads/
+!data/maps/*
